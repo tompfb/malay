@@ -18,8 +18,8 @@ include 'script-login.php';
     <link rel="apple-touch-icon" href="../favicon.webp" />
 
     <?php include('./link.php'); ?>
-    <link rel="canonical" href="https://xn--12c9dast7db4m.live/all-articles/" />
-    <link rel="alternate" href="https://xn--12c9dast7db4m.live/all-articles/" hreflang="th-TH" />
+    <link rel="canonical" href="#/all-articles/" />
+    <link rel="alternate" href="#/all-articles/" hreflang="th-TH" />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
     <script type="application/ld+json">
         {
@@ -29,7 +29,7 @@ include 'script-login.php';
                 "@type": "ListItem",
                 "position": 1,
                 "name": "หน้าแรก",
-                "item": "https://xn--12c9dast7db4m.live/"
+                "item": "#/"
             }, {
                 "@type": "ListItem",
                 "position": 2,

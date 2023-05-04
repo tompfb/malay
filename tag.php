@@ -45,8 +45,8 @@ $resultrow = mysqli_fetch_array($allArticle);
     <meta name="robots" content="all" />
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="canonical" href="https://xn--12c9dast7db4m.live/tag/<?php echo $tagUrl ?>" />
-    <link rel="alternate" href="https://xn--12c9dast7db4m.live/tag/<?php echo $tagUrl ?>" hreflang="th-TH" />
+    <link rel="canonical" href="#/tag/<?php echo $tagUrl ?>" />
+    <link rel="alternate" href="#/tag/<?php echo $tagUrl ?>" hreflang="th-TH" />
     <link rel="shortcut icon" href="../favicon.webp" type="image/x-icon" />
     <link rel="icon" href="../favicon.webp" type="image/x-icon" />
     <link rel="apple-touch-icon" href="../favicon.webp" />
@@ -61,12 +61,12 @@ $resultrow = mysqli_fetch_array($allArticle);
                 "@type": "ListItem",
                 "position": 1,
                 "name": "หน้าแรก",
-                "item": https://xn--12c9dast7db4m.live/"
+                "item": #/"
             }, {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "บทความทั้งหมด",
-                "item": https://xn--12c9dast7db4m.live/all-articles/"
+                "item": #/all-articles/"
             },
             {
                 "@type": "ListItem",

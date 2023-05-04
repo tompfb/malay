@@ -37,11 +37,11 @@ if ($key_search) {
     <meta property="og:type" content="website" />
     <meta property="og:title" content="หวยยี่กี เว็บใหญ่จ่ายหนัก รับแทงหวยยี่กี บริการครบวงจร" />
     <meta property="og:description" content="หวยยี่กี เป็นเกมที่รู้จักกันดีในประเทศไทยและเล่นค่อนข้างง่าย สิ่งที่คุณต้องทำคือเลือกหมายเลขของคุณและรอผลลัพธ์ อัตราการจ่ายต่อบาทที่น่าสนใจ จ่ายหนัก จ่ายจริง" />
-    <meta property="og:url" content="https://xn--12c9dast7db4m.live/" />
+    <meta property="og:url" content="#/" />
     <meta property="og:site_name" content="หวยยี่กี" />
     <meta property="og:image" content="./img/logo-lotto-yeekee.webp" />
 
-    <meta property="twitter:url" content="https://xn--12c9dast7db4m.live/">
+    <meta property="twitter:url" content="#/">
     <meta property="twitter:image" content="./img/logo-lotto-yeekee.webp">
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="หวยยี่กี เว็บใหญ่จ่ายหนัก รับแทงหวยยี่กี บริการครบวงจร" />
@@ -49,8 +49,8 @@ if ($key_search) {
     <meta name="twitter:site" content="หวยยี่กี">
     <meta name="twitter:creator" content="หวยยี่กี">
 
-    <link rel="canonical" href="https://xn--12c9dast7db4m.live/" />
-    <link rel="alternate" href="https://xn--12c9dast7db4m.live/" hreflang="th-TH" />
+    <link rel="canonical" href="#/" />
+    <link rel="alternate" href="#/" hreflang="th-TH" />
 
     <link rel="shortcut icon" href="./favicon.webp" type="image/x-icon" />
     <link rel="icon" href="./favicon.webp" type="image/x-icon" />
@@ -61,8 +61,8 @@ if ($key_search) {
         {
             "@context": "https://schema.org",
             "@type": "Organization",
-            "url": "https://xn--12c9dast7db4m.live/",
-            "logo": "https://xn--12c9dast7db4m.live/img/logo-lotto-yeekee.webp"
+            "url": "#/",
+            "logo": "#/img/logo-lotto-yeekee.webp"
         }
     </script>
     <script type="application/ld+json">
@@ -77,21 +77,21 @@ if ($key_search) {
                     "/html/head/meta[@name='description']/@content"
                 ]
             },
-            "url": "https://xn--12c9dast7db4m.live/"
+            "url": "#/"
         }
     </script>
     <script type="application/ld+json">
         {
             "@context": "https://schema.org/",
             "@type": "WebSite",
-            "url": "https://xn--12c9dast7db4m.live/",
+            "url": "#/",
             "name": "หวยยี่กี",
             "description": "เว็บใหญ่จ่ายหนัก รับแทงหวยยี่กี บริการครบวงจร ",
             "potentialAction": [{
                 "@type": "SearchAction",
                 "target": {
                     "@type": "EntryPoint",
-                    "urlTemplate": "https://xn--12c9dast7db4m.live/?s={search_term_string}"
+                    "urlTemplate": "#/?s={search_term_string}"
                 },
                 "query-input": "required name=search_term_string"
             }]
@@ -113,18 +113,18 @@ if ($key_search) {
             "@context": "https://schema.org",
             "@type": "Store",
             "image": [
-                "https://xn--12c9dast7db4m.live/img/logo-lotto-yeekee.webp",
-                "https://xn--12c9dast7db4m.live/img/baner-lotto-yeekee.webp",
-                "https://xn--12c9dast7db4m.live/img/lottoYiKi-img01.webp",
-                "https://xn--12c9dast7db4m.live/img/lottoYiKi-img02.webp",
-                "https://xn--12c9dast7db4m.live/img/lottoYiKi-img03.webp"
+                "#/img/logo-lotto-yeekee.webp",
+                "#/img/baner-lotto-yeekee.webp",
+                "#/img/lottoYiKi-img01.webp",
+                "#/img/lottoYiKi-img02.webp",
+                "#/img/lottoYiKi-img03.webp"
             ],
             "name": "หวยยี่กี",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "TH"
             },
-            "url": "https://xn--12c9dast7db4m.live/",
+            "url": "#/",
             "priceRange": "฿฿฿",
             "telephone": "+6696-921-9245",
             "openingHoursSpecification": [{

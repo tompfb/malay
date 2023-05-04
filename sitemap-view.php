@@ -18,7 +18,7 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     $encode = urlencode($url_articles_seo);
     echo "
       <url>
-      <loc>https://xn--12c9dast7db4m.live/view/$encode</loc>
+      <loc>#/view/$encode</loc>
       <lastmod>" . $date . "</lastmod>
       <priority>0.75</priority>
       </url>";

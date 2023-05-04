@@ -28,11 +28,11 @@ include 'script-login.php';
     <meta property="og:type" content="article" />
     <meta property="og:title" content="ทางเข้า หวยยี่กี กับระบบใหม่ เล่นฟรีได้ 24 ชั่วโมง " />
     <meta property="og:description" content="ทางเข้า แทงหวยยี่กี กับระบบที่ปรับปรุงใหม่ ด้วยการเข้าถึงฟรีตลอด 24 ชั่วโมง คุณสามารถใช้แพลตฟอร์มนี้เพื่อเสี่ยงโชคและรับรางวัลใหญ่ได้แล้ว" />
-    <meta property="og:url" content="https://xn--12c9dast7db4m.live/entrance/" />
+    <meta property="og:url" content="#/entrance/" />
     <meta property="og:site_name" content="ทางเข้า หวยยี่กี" />
     <meta property="og:image" content="../img/banner-entrance.webp" />
 
-    <meta property="twitter:url" content="https://xn--12c9dast7db4m.live/entrance/">
+    <meta property="twitter:url" content="#/entrance/">
     <meta property="twitter:image" content="../img/banner-entrance.webp">
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="ทางเข้า หวยยี่กี กับระบบใหม่ เล่นฟรีได้ 24 ชั่วโมง " />
@@ -40,8 +40,8 @@ include 'script-login.php';
     <meta name="twitter:site" content="หวยยี่กี">
     <meta name="twitter:creator" content="หวยยี่กี">
 
-    <link rel="canonical" href="https://xn--12c9dast7db4m.live/entrance/" />
-    <link rel="alternate" href="https://xn--12c9dast7db4m.live/entrance/" hreflang="th-TH" />
+    <link rel="canonical" href="#/entrance/" />
+    <link rel="alternate" href="#/entrance/" hreflang="th-TH" />
 
     <link rel="shortcut icon" href="../favicon.webp" type="image/x-icon" />
     <link rel="icon" href="../favicon.webp" type="image/x-icon" />
@@ -56,7 +56,7 @@ include 'script-login.php';
                 "@type": "ListItem",
                 "position": 1,
                 "name": "หน้าแรก",
-                "item": "https://xn--12c9dast7db4m.live/"
+                "item": "#/"
             }, {
                 "@type": "ListItem",
                 "position": 2,

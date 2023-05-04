@@ -28,11 +28,11 @@ include 'script-login.php';
     <meta property="og:type" content="article" />
     <meta property="og:title" content="สมัคร หวยยี่กี เป็นสมาชิกใหม่ ก็ลุ้นรับโบนัสจัดเต็ม" />
     <meta property="og:description" content="สมัครหวย ยี่กี สมาชิกใหม่ลุ้นรับโบนัสจัดเต็ม เพียงสมัครเข้าสู่ระบบ นอกจากนี้ยังมีโบนัสและรางวัลมากมาย สมัครตอนนี้เพื่อลุ้นรางวัลใหญ่ ในฐานะสมาชิกใหม่" />
-    <meta property="og:url" content="https://xn--12c9dast7db4m.live/register/" />
+    <meta property="og:url" content="#/register/" />
     <meta property="og:site_name" content="สมัคร หวยยี่กี" />
     <meta property="og:image" content="../img/banner-register.webp" />
 
-    <meta property="twitter:url" content="https://xn--12c9dast7db4m.live/register/">
+    <meta property="twitter:url" content="#/register/">
     <meta property="twitter:image" content="../img/banner-register.webp">
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="สมัคร หวยยี่กี เป็นสมาชิกใหม่ ก็ลุ้นรับโบนัสจัดเต็ม" />
@@ -40,8 +40,8 @@ include 'script-login.php';
     <meta name="twitter:site" content="หวยยี่กี">
     <meta name="twitter:creator" content="หวยยี่กี">
 
-    <link rel="canonical" href="https://xn--12c9dast7db4m.live/register/" />
-    <link rel="alternate" href="https://xn--12c9dast7db4m.live/register/" hreflang="th-TH" />
+    <link rel="canonical" href="#/register/" />
+    <link rel="alternate" href="#/register/" hreflang="th-TH" />
 
     <link rel="shortcut icon" href="../favicon.webp" type="image/x-icon" />
     <link rel="icon" href="../favicon.webp" type="image/x-icon" />
@@ -56,7 +56,7 @@ include 'script-login.php';
                 "@type": "ListItem",
                 "position": 1,
                 "name": "หน้าแรก",
-                "item": "https://xn--12c9dast7db4m.live/"
+                "item": "#/"
             }, {
                 "@type": "ListItem",
                 "position": 2,

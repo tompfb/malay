@@ -28,11 +28,11 @@ include 'script-login.php';
     <meta property="og:type" content="article" />
     <meta property="og:title" content="ติดต่อเรา หวยยี่กี เว็บพนัน บริการสมาชิก ตลอด 24 ชั่วโมง" />
     <meta property="og:description" content="ติดต่อเรา หวยยี่กี คือตัวเลือกที่ดีที่สุดสำหรับคุณอย่างแน่นอน ทุกยอดเดิมพัน มีเกมให้เลือกมากมาย เช่น หวยรัฐไทยบาล หวยลาวลาวพัฒนา หวยฮานอย หวยหุ้น " />
-    <meta property="og:url" content="https://xn--12c9dast7db4m.live/contact/" />
+    <meta property="og:url" content="#/contact/" />
     <meta property="og:site_name" content="ติดต่อ" />
     <meta property="og:image" content="../img/banner-contact.webp" />
 
-    <meta property="twitter:url" content="https://xn--12c9dast7db4m.live/contact/">
+    <meta property="twitter:url" content="#/contact/">
     <meta property="twitter:image" content="../img/banner-contact.webp">
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="ติดต่อเรา หวยยี่กี เว็บพนัน บริการสมาชิก ตลอด 24 ชั่วโมง" />
@@ -40,8 +40,8 @@ include 'script-login.php';
     <meta name="twitter:site" content="หวยยี่กี">
     <meta name="twitter:creator" content="หวยยี่กี">
 
-    <link rel="canonical" href="https://xn--12c9dast7db4m.live/contact/" />
-    <link rel="alternate" href="https://xn--12c9dast7db4m.live/contact/" hreflang="th-TH" />
+    <link rel="canonical" href="#/contact/" />
+    <link rel="alternate" href="#/contact/" hreflang="th-TH" />
 
     <link rel="shortcut icon" href="../favicon.webp" type="image/x-icon" />
     <link rel="icon" href="../favicon.webp" type="image/x-icon" />
@@ -56,7 +56,7 @@ include 'script-login.php';
                 "@type": "ListItem",
                 "position": 1,
                 "name": "หน้าแรก",
-                "item": "https://xn--12c9dast7db4m.live/"
+                "item": "#/"
             }, {
                 "@type": "ListItem",
                 "position": 2,

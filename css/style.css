@@ -669,6 +669,20 @@ details {
 #nav-footer-bottom {
   display: none !important;
 }
+article.err-404{
+  background-color: #000;
+}
+article.err-404 .error{
+  min-height: 50vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+article.err-404 .error strong{
+  font-size: 4em;
+  color: #ff0000;
+}
 @media (max-width: 1399px) {
   .bg-gray .bghead {
     width: 90% !important;
