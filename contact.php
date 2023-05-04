@@ -5,9 +5,9 @@ include 'script-login.php';
 <html lang="th">
 
 <head>
-    <title>ติดต่อเรา หวยยี่กี เว็บพนัน บริการสมาชิก ตลอด 24 ชั่วโมง</title>
-    <meta name="title" content="ติดต่อเรา หวยยี่กี เว็บพนัน บริการสมาชิก ตลอด 24 ชั่วโมง" />
-    <meta name="description" content="ติดต่อเรา หวยยี่กี คือตัวเลือกที่ดีที่สุดสำหรับคุณอย่างแน่นอน ทุกยอดเดิมพัน มีเกมให้เลือกมากมาย เช่น หวยรัฐไทยบาล หวยลาวลาวพัฒนา หวยฮานอย หวยหุ้น " />
+    <title>ติดต่อเรา หวยมาเลย์ ยินดีพร้อมให้บริการลูกค้าทุกท่านตลอด 24 ชั่วโมง</title>
+    <meta name="title" content="ติดต่อเรา หวยมาเลย์ ยินดีพร้อมให้บริการลูกค้าทุกท่านตลอด 24 ชั่วโมง" />
+    <meta name="description" content="ติดต่อเรา หวยมาเลย์ อัพเดทช่องทางการติดต่อ LINE Official มีทีมงานมืออาชีพคอยให้บริการลูกค้าตลอดเวลา ยินดีให้คำปรึกษา และให้คำแนะนำสิ่งต่างๆที่ลูกค้าต้องการ ตลอด 24 ชั่วโมง" />
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="UTF-8">
@@ -17,7 +17,7 @@ include 'script-login.php';
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <meta name="robots" content="all" />
-    <meta name="Author" content="หวยยี่กี">
+    <meta name="Author" content="หวยมาเลย์">
     <meta name="googlebots" content="all">
     <meta name="audience" content="all">
     <meta name="Rating" content="General">
@@ -26,19 +26,19 @@ include 'script-login.php';
 
     <meta property="og:locale" content="th_TH" />
     <meta property="og:type" content="article" />
-    <meta property="og:title" content="ติดต่อเรา หวยยี่กี เว็บพนัน บริการสมาชิก ตลอด 24 ชั่วโมง" />
-    <meta property="og:description" content="ติดต่อเรา หวยยี่กี คือตัวเลือกที่ดีที่สุดสำหรับคุณอย่างแน่นอน ทุกยอดเดิมพัน มีเกมให้เลือกมากมาย เช่น หวยรัฐไทยบาล หวยลาวลาวพัฒนา หวยฮานอย หวยหุ้น " />
+    <meta property="og:title" content="ติดต่อเรา หวยมาเลย์ ยินดีพร้อมให้บริการลูกค้าทุกท่านตลอด 24 ชั่วโมง" />
+    <meta property="og:description" content="ติดต่อเรา หวยมาเลย์ อัพเดทช่องทางการติดต่อ LINE Official มีทีมงานมืออาชีพคอยให้บริการลูกค้าตลอดเวลา ยินดีให้คำปรึกษา และให้คำแนะนำสิ่งต่างๆที่ลูกค้าต้องการ ตลอด 24 ชั่วโมง" />
     <meta property="og:url" content="#/contact/" />
-    <meta property="og:site_name" content="ติดต่อ" />
-    <meta property="og:image" content="../img/banner-contact.webp" />
+    <meta property="og:site_name" content="ติดต่อ หวยมาเลย์" />
+    <meta property="og:image" content="../img/contact/banner-contact-lottomalay.webp" />
 
     <meta property="twitter:url" content="#/contact/">
-    <meta property="twitter:image" content="../img/banner-contact.webp">
+    <meta property="twitter:image" content="../img/contact/banner-contact-lottomalay.webp">
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="ติดต่อเรา หวยยี่กี เว็บพนัน บริการสมาชิก ตลอด 24 ชั่วโมง" />
-    <meta name="twitter:description" content="ติดต่อเรา หวยยี่กี คือตัวเลือกที่ดีที่สุดสำหรับคุณอย่างแน่นอน ทุกยอดเดิมพัน มีเกมให้เลือกมากมาย เช่น หวยรัฐไทยบาล หวยลาวลาวพัฒนา หวยฮานอย หวยหุ้น " />
-    <meta name="twitter:site" content="หวยยี่กี">
-    <meta name="twitter:creator" content="หวยยี่กี">
+    <meta name="twitter:title" content="ติดต่อเรา หวยมาเลย์ ยินดีพร้อมให้บริการลูกค้าทุกท่านตลอด 24 ชั่วโมง" />
+    <meta name="twitter:description" content="ติดต่อเรา หวยมาเลย์ อัพเดทช่องทางการติดต่อ LINE Official มีทีมงานมืออาชีพคอยให้บริการลูกค้าตลอดเวลา ยินดีให้คำปรึกษา และให้คำแนะนำสิ่งต่างๆที่ลูกค้าต้องการ ตลอด 24 ชั่วโมง" />
+    <meta name="twitter:site" content="หวยมาเลย์">
+    <meta name="twitter:creator" content="หวยมาเลย์">
 
     <link rel="canonical" href="#/contact/" />
     <link rel="alternate" href="#/contact/" hreflang="th-TH" />
@@ -47,6 +47,36 @@ include 'script-login.php';
     <link rel="icon" href="../favicon.webp" type="image/x-icon" />
     <link rel="apple-touch-icon" href="../favicon.webp" />
     <?php include('./link.php'); ?>
+
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [{
+                "@type": "Question",
+                "name": "หวยมาเลย์ออกกี่โมง ?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "หวยมาเลย์ประกาศผลการออกรางวัลช่วงเวลา 18.30 นตามเวลาไทย ปิดรับแทงหวยมาเลย์รอบสุดท้ายเวลา 18.00 น"
+                }
+            }, {
+                "@type": "Question",
+                "name": "หวยมาเลย์ออกวันไหนบ้าง ?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "หวยมาเลย์ มีรอบการออกรางวัลบ่อยถึงอาทิตย์ละ 3 วันซึ่งจะออกรางวัลทุกวันพุธ วันเสาร์ รวมทั้งวันอาทิตย์ "
+                }
+            }, {
+                "@type": "Question",
+                "name": "หวยมาเลย์พิเศษ ออกวันไหน ออกกี่โมง ?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "ปกติแล้วหวยมาเลย์ ออกรางวัลสัปดาห์ละ 3 ครั้ง แต่วันอังคารบางสัปดาห์ จะมีการออกรางวัล หวยมาเลย์พิเศษ หรือ magnum ซึ่งนานๆทีถึงจะมีการออกรางวัลหวยมาเลย์พิเศษ ส่วนช่วงเวลาออกรางวัลคือ 18.30 น เช่นเดียวกับหวยมาเลย์ปกติ"
+                }
+            }]
+        }
+    </script>
+
 
     <script type="application/ld+json">
         {

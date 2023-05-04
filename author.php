@@ -14,13 +14,13 @@ if (isset($Fname)) {
 }
 
 
-
+ 
 ?>
 <!DOCTYPE html>
 <html>
 
 <head>
-    <title><?php echo $a_name ?>, Author at หวยยี่กี</title>
+    <title><?php echo $a_name ?>, Author at หวยมาเลย์</title>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
@@ -30,10 +30,10 @@ if (isset($Fname)) {
     <link rel="alternate" href="#/author/<?php echo $a_name ?>" hreflang="th-TH" />
     <meta property="og:locale" content="th_TH" />
     <meta property="og:type" content="author" />
-    <meta property="og:title" content="<?php echo $a_name ?>, Author at หวยยี่กี" />
+    <meta property="og:title" content="<?php echo $a_name ?>, Author at หวยมาเลย์" />
     <meta property="og:url" content="#/author/<?php echo $a_name ?>" />
-    <meta property="og:site_name" content="หวยยี่กี" />
-    <meta property="og:image" content="../img/logo-lotto-yeekee.webp" />
+    <meta property="og:site_name" content="หวยมาเลย์" />
+    <meta property="og:image" content="../img/logo-lotto-malay.webp" />
     <meta name="twitter:card" content="summary_large_image" />
 
     <link rel="shortcut icon" href="../favicon.webp" type="image/x-icon" />

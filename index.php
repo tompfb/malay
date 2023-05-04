@@ -15,9 +15,9 @@ if ($key_search) {
 <html lang="th">
 
 <head>
-    <title>หวยยี่กี เว็บใหญ่จ่ายหนัก รับแทงหวยยี่กี บริการครบวงจร</title>
-    <meta name="title" content="หวยยี่กี เว็บใหญ่จ่ายหนัก รับแทงหวยยี่กี บริการครบวงจร " />
-    <meta name="description" content="หวยยี่กี เป็นเกมที่รู้จักกันดีในประเทศไทยและเล่นค่อนข้างง่าย สิ่งที่คุณต้องทำคือเลือกหมายเลขของคุณและรอผลลัพธ์ อัตราการจ่ายต่อบาทที่น่าสนใจ จ่ายหนัก จ่ายจริง" />
+    <title>หวยมาเลย์ แทงขั้นต่ำ 1 บาท จ่ายถึงบาทละ 900 บาท ตลอด 24 ชม.</title>
+    <meta name="title" content="หวยมาเลย์ แทงขั้นต่ำ 1 บาท จ่ายถึงบาทละ 900 บาท ตลอด 24 ชม. " />
+    <meta name="description" content="หวยมาเลย์ จัดอยู่ในหมวดหมู่หวยต่างประเทศ ออกรางวัลโดยประเทศมาเลเซีย แทงหวยไม่มีขั้นต่ำเริ่มต้น 1 บาท จ่ายผลตอบแทนสูงถึงบาทละ 900 บาท" />
 
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -26,7 +26,7 @@ if ($key_search) {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <meta name="robots" content="index,follow" />
-    <meta name="Author" content="หวยยี่กี">
+    <meta name="Author" content="หวยมาเลย์ ">
     <meta name="googlebots" content="all">
     <meta name="audience" content="all">
     <meta name="Rating" content="General">
@@ -35,19 +35,19 @@ if ($key_search) {
 
     <meta property="og:locale" content="th_TH" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="หวยยี่กี เว็บใหญ่จ่ายหนัก รับแทงหวยยี่กี บริการครบวงจร" />
-    <meta property="og:description" content="หวยยี่กี เป็นเกมที่รู้จักกันดีในประเทศไทยและเล่นค่อนข้างง่าย สิ่งที่คุณต้องทำคือเลือกหมายเลขของคุณและรอผลลัพธ์ อัตราการจ่ายต่อบาทที่น่าสนใจ จ่ายหนัก จ่ายจริง" />
+    <meta property="og:title" content="หวยมาเลย์ แทงขั้นต่ำ 1 บาท จ่ายถึงบาทละ 900 บาท ตลอด 24 ชม." />
+    <meta property="og:description" content="หวยมาเลย์ จัดอยู่ในหมวดหมู่หวยต่างประเทศ ออกรางวัลโดยประเทศมาเลเซีย แทงหวยไม่มีขั้นต่ำเริ่มต้น 1 บาท จ่ายผลตอบแทนสูงถึงบาทละ 900 บาท" />
     <meta property="og:url" content="#/" />
-    <meta property="og:site_name" content="หวยยี่กี" />
-    <meta property="og:image" content="./img/logo-lotto-yeekee.webp" />
+    <meta property="og:site_name" content="หวยมาเลย์ " />
+    <meta property="og:image" content="./img/logo-lotto-malay.webp" />
 
     <meta property="twitter:url" content="#/">
-    <meta property="twitter:image" content="./img/logo-lotto-yeekee.webp">
+    <meta property="twitter:image" content="./img/logo-lotto-malay.webp">
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="หวยยี่กี เว็บใหญ่จ่ายหนัก รับแทงหวยยี่กี บริการครบวงจร" />
-    <meta name="twitter:description" content="หวยยี่กี เป็นเกมที่รู้จักกันดีในประเทศไทยและเล่นค่อนข้างง่าย สิ่งที่คุณต้องทำคือเลือกหมายเลขของคุณและรอผลลัพธ์ อัตราการจ่ายต่อบาทที่น่าสนใจ จ่ายหนัก จ่ายจริง" />
-    <meta name="twitter:site" content="หวยยี่กี">
-    <meta name="twitter:creator" content="หวยยี่กี">
+    <meta name="twitter:title" content="หวยมาเลย์ แทงขั้นต่ำ 1 บาท จ่ายถึงบาทละ 900 บาท ตลอด 24 ชม." />
+    <meta name="twitter:description" content="หวยมาเลย์ จัดอยู่ในหมวดหมู่หวยต่างประเทศ ออกรางวัลโดยประเทศมาเลเซีย แทงหวยไม่มีขั้นต่ำเริ่มต้น 1 บาท จ่ายผลตอบแทนสูงถึงบาทละ 900 บาท" />
+    <meta name="twitter:site" content="หวยมาเลย์ ">
+    <meta name="twitter:creator" content="หวยมาเลย์ ">
 
     <link rel="canonical" href="#/" />
     <link rel="alternate" href="#/" hreflang="th-TH" />
@@ -62,14 +62,14 @@ if ($key_search) {
             "@context": "https://schema.org",
             "@type": "Organization",
             "url": "#/",
-            "logo": "#/img/logo-lotto-yeekee.webp"
+            "logo": "#/img/logo-lotto-malay.webp"
         }
     </script>
     <script type="application/ld+json">
         {
             "@context": "https://schema.org/",
             "@type": "WebPage",
-            "name": "หวยยี่กี",
+            "name": "หวยมาเลย์ ",
             "speakable": {
                 "@type": "SpeakableSpecification",
                 "xPath": [
@@ -85,8 +85,8 @@ if ($key_search) {
             "@context": "https://schema.org/",
             "@type": "WebSite",
             "url": "#/",
-            "name": "หวยยี่กี",
-            "description": "เว็บใหญ่จ่ายหนัก รับแทงหวยยี่กี บริการครบวงจร ",
+            "name": "หวยมาเลย์ ",
+            "description": "หวยมาเลย์ แทงขั้นต่ำ 1 บาท จ่ายถึงบาทละ 900 บาท",
             "potentialAction": [{
                 "@type": "SearchAction",
                 "target": {
@@ -104,7 +104,7 @@ if ($key_search) {
             "itemListElement": [{
                 "@type": "ListItem",
                 "position": 1,
-                "name": "หวยยี่กี"
+                "name": "หวยมาเลย์ "
             }]
         }
     </script>
@@ -113,13 +113,11 @@ if ($key_search) {
             "@context": "https://schema.org",
             "@type": "Store",
             "image": [
-                "#/img/logo-lotto-yeekee.webp",
-                "#/img/baner-lotto-yeekee.webp",
-                "#/img/lottoYiKi-img01.webp",
-                "#/img/lottoYiKi-img02.webp",
-                "#/img/lottoYiKi-img03.webp"
+                "#/img/logo-lotto-malay.webp",
+                "#/img/main-banner.webp",
+                "#/img/huay-malay.webp"
             ],
-            "name": "หวยยี่กี",
+            "name": "หวยมาเลย์ ",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "TH"

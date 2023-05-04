@@ -71,14 +71,14 @@ if (isset($url_articles_seo)) {
     <meta property="og:description" content="<?php echo $descripion_seo  ?>" />
     <meta property="og:image" content="../backend/uploads/article-img/<?php echo $image_banner ?>" />
     <meta property="og:url" content="#/view/<?php echo $encode ?>" />
-    <meta property="og:site_name" content="หวยยี่กี" />
+    <meta property="og:site_name" content="หวยมาเลย์" />
 
     <meta property="twitter:url" content="#/view/<?php echo $encode ?>">
     <meta property="twitter:image" content="../backend/uploads/article-img/<?php echo $image_banner ?>">
     <meta name="twitter:title" content="<?php echo $topic_name ?>" />
     <meta name="twitter:description" content="<?php echo $descripion_seo ?>" />
-    <meta name="twitter:site" content="หวยยี่กี" />
-    <meta name="twitter:creator" content="หวยยี่กี" />
+    <meta name="twitter:site" content="หวยมาเลย์" />
+    <meta name="twitter:creator" content="หวยมาเลย์" />
     <meta name="twitter:card" content="summary_large_image" />
 
     <link rel="alternate" href="#/<?php echo $encode ?>" hreflang="th-TH" />
@@ -105,12 +105,12 @@ if (isset($url_articles_seo)) {
             "dateModified": "<?php echo $update_at ?>",
             "author": {
                 "@type": "Person",
-                "name": "หวยยี่กี",
+                "name": "หวยมาเลย์",
                 "url": "#/view/<?php echo $encode ?>"
             },
             "publisher": {
                 "@type": "Organization",
-                "name": "หวยยี่กี",
+                "name": "หวยมาเลย์",
                 "logo": {
                     "@type": "ImageObject",
                     "url": "#/view/<?php echo $encode ?>"

@@ -5,19 +5,19 @@ include 'script-login.php';
 <html lang="th">
 
 <head>
-    <title>ทางเข้า หวยยี่กี กับระบบใหม่ เล่นฟรีได้ 24 ชั่วโมง </title>
-    <meta name="title" content="ทางเข้า หวยยี่กี กับระบบใหม่ เล่นฟรีได้ 24 ชั่วโมง " />
-    <meta name="description" content="ทางเข้า แทงหวยยี่กี กับระบบที่ปรับปรุงใหม่ ด้วยการเข้าถึงฟรีตลอด 24 ชั่วโมง คุณสามารถใช้แพลตฟอร์มนี้เพื่อเสี่ยงโชคและรับรางวัลใหญ่ได้แล้ว" />
+    <title>ทางเข้า หวยมาเลย์ บริการตลอด 24 ชั่วโมง ฝากถอนปลอดภัย 100%</title>
+    <meta name="title" content="ทางเข้า หวยมาเลย์ บริการตลอด 24 ชั่วโมง ฝากถอนปลอดภัย 100%" />
+    <meta name="description" content="ทางเข้าเล่นหวยมาเลย์ แทงหวยมาเลย์ เหมาะสำหรับใครที่ชื่นชอบในการแทงหวยออนไลน์ เล่นได้ทั้งระบบ Android และ iOS ฝากถอนปลอดภัย 100% " />
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta http-equiv="content-language" content="th" />
     <meta http-equiv="content-type" content="text/html;" charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
 
     <meta name="robots" content="all" />
-    <meta name="Author" content="หวยยี่กี">
+    <meta name="Author" content="หวยมาเลย์">
     <meta name="googlebots" content="all">
     <meta name="audience" content="all">
     <meta name="Rating" content="General">
@@ -26,19 +26,19 @@ include 'script-login.php';
 
     <meta property="og:locale" content="th_TH" />
     <meta property="og:type" content="article" />
-    <meta property="og:title" content="ทางเข้า หวยยี่กี กับระบบใหม่ เล่นฟรีได้ 24 ชั่วโมง " />
-    <meta property="og:description" content="ทางเข้า แทงหวยยี่กี กับระบบที่ปรับปรุงใหม่ ด้วยการเข้าถึงฟรีตลอด 24 ชั่วโมง คุณสามารถใช้แพลตฟอร์มนี้เพื่อเสี่ยงโชคและรับรางวัลใหญ่ได้แล้ว" />
+    <meta property="og:title" content="ทางเข้า หวยมาเลย์ บริการตลอด 24 ชั่วโมง ฝากถอนปลอดภัย 100%" />
+    <meta property="og:description" content="ทางเข้าเล่นหวยมาเลย์ แทงหวยมาเลย์ เหมาะสำหรับใครที่ชื่นชอบในการแทงหวยออนไลน์ เล่นได้ทั้งระบบ Android และ iOS ฝากถอนปลอดภัย 100% " />
     <meta property="og:url" content="#/entrance/" />
-    <meta property="og:site_name" content="ทางเข้า หวยยี่กี" />
-    <meta property="og:image" content="../img/banner-entrance.webp" />
+    <meta property="og:site_name" content="ทางเข้า หวยมาเลย์" />
+    <meta property="og:image" content="../img/entrance/banner-entrance-lottomalay.webp" />
 
     <meta property="twitter:url" content="#/entrance/">
-    <meta property="twitter:image" content="../img/banner-entrance.webp">
+    <meta property="twitter:image" content="../img/entrance/banner-entrance-lottomalay.webp">
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="ทางเข้า หวยยี่กี กับระบบใหม่ เล่นฟรีได้ 24 ชั่วโมง " />
-    <meta name="twitter:description" content="ทางเข้า แทงหวยยี่กี กับระบบที่ปรับปรุงใหม่ ด้วยการเข้าถึงฟรีตลอด 24 ชั่วโมง คุณสามารถใช้แพลตฟอร์มนี้เพื่อเสี่ยงโชคและรับรางวัลใหญ่ได้แล้ว" />
-    <meta name="twitter:site" content="หวยยี่กี">
-    <meta name="twitter:creator" content="หวยยี่กี">
+    <meta name="twitter:title" content="ทางเข้า หวยมาเลย์ บริการตลอด 24 ชั่วโมง ฝากถอนปลอดภัย 100%" />
+    <meta name="twitter:description" content="ทางเข้าเล่นหวยมาเลย์ แทงหวยมาเลย์ เหมาะสำหรับใครที่ชื่นชอบในการแทงหวยออนไลน์ เล่นได้ทั้งระบบ Android และ iOS ฝากถอนปลอดภัย 100% " />
+    <meta name="twitter:site" content="หวยมาเลย์">
+    <meta name="twitter:creator" content="หวยมาเลย์">
 
     <link rel="canonical" href="#/entrance/" />
     <link rel="alternate" href="#/entrance/" hreflang="th-TH" />

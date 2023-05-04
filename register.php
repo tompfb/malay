@@ -5,9 +5,9 @@ include 'script-login.php';
 <html lang="th">
 
 <head>
-    <title>สมัคร หวยยี่กี เป็นสมาชิกใหม่ ก็ลุ้นรับโบนัสจัดเต็ม </title>
-    <meta name="title" content="สมัคร หวยยี่กี เป็นสมาชิกใหม่ ก็ลุ้นรับโบนัสจัดเต็ม" />
-    <meta name="description" content="สมัครหวย ยี่กี สมาชิกใหม่ลุ้นรับโบนัสจัดเต็ม เพียงสมัครเข้าสู่ระบบ นอกจากนี้ยังมีโบนัสและรางวัลมากมาย สมัครตอนนี้เพื่อลุ้นรางวัลใหญ่ ในฐานะสมาชิกใหม่" />
+    <title>สมัคร หวยมาเลย์ จ่ายจริงการันตี  มั่นคง ปลอดภัย 100% </title>
+    <meta name="title" content="สมัคร หวยมาเลย์ จ่ายจริงการันตี  มั่นคง ปลอดภัย 100%" />
+    <meta name="description" content="สมัคร หวยมาเลย์ รับสิทธิประโยชน์มากมาย จ่ายจริงการันตี 100% เปิดรับแทงหวยมาเลเซีย หวยมาเลย์ แทงหวยวันนี้ให้ราคาจ่ายสูงสุดถึงบาทละ 900 บาท เปิดรับแทงหวยตลอด 24 ชั่วโมง" />
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="UTF-8">
@@ -17,7 +17,7 @@ include 'script-login.php';
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <meta name="robots" content="all" />
-    <meta name="Author" content="หวยยี่กี">
+    <meta name="Author" content="หวยมาเลย์">
     <meta name="googlebots" content="all">
     <meta name="audience" content="all">
     <meta name="Rating" content="General">
@@ -26,19 +26,19 @@ include 'script-login.php';
 
     <meta property="og:locale" content="th_TH" />
     <meta property="og:type" content="article" />
-    <meta property="og:title" content="สมัคร หวยยี่กี เป็นสมาชิกใหม่ ก็ลุ้นรับโบนัสจัดเต็ม" />
-    <meta property="og:description" content="สมัครหวย ยี่กี สมาชิกใหม่ลุ้นรับโบนัสจัดเต็ม เพียงสมัครเข้าสู่ระบบ นอกจากนี้ยังมีโบนัสและรางวัลมากมาย สมัครตอนนี้เพื่อลุ้นรางวัลใหญ่ ในฐานะสมาชิกใหม่" />
+    <meta property="og:title" content="สมัคร หวยมาเลย์ จ่ายจริงการันตี  มั่นคง ปลอดภัย 100%" />
+    <meta property="og:description" content="สมัคร หวยมาเลย์ รับสิทธิประโยชน์มากมาย จ่ายจริงการันตี 100% เปิดรับแทงหวยมาเลเซีย หวยมาเลย์ แทงหวยวันนี้ให้ราคาจ่ายสูงสุดถึงบาทละ 900 บาท เปิดรับแทงหวยตลอด 24 ชั่วโมง" />
     <meta property="og:url" content="#/register/" />
-    <meta property="og:site_name" content="สมัคร หวยยี่กี" />
-    <meta property="og:image" content="../img/banner-register.webp" />
+    <meta property="og:site_name" content="สมัคร หวยมาเลย์" />
+    <meta property="og:image" content="../img/register/banner-register-lottomalay.webp" />
 
     <meta property="twitter:url" content="#/register/">
-    <meta property="twitter:image" content="../img/banner-register.webp">
+    <meta property="twitter:image" content="../img/register/banner-register-lottomalay.webp">
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="สมัคร หวยยี่กี เป็นสมาชิกใหม่ ก็ลุ้นรับโบนัสจัดเต็ม" />
-    <meta name="twitter:description" content="สมัครหวย ยี่กี สมาชิกใหม่ลุ้นรับโบนัสจัดเต็ม เพียงสมัครเข้าสู่ระบบ นอกจากนี้ยังมีโบนัสและรางวัลมากมาย สมัครตอนนี้เพื่อลุ้นรางวัลใหญ่ ในฐานะสมาชิกใหม่" />
-    <meta name="twitter:site" content="หวยยี่กี">
-    <meta name="twitter:creator" content="หวยยี่กี">
+    <meta name="twitter:title" content="สมัคร หวยมาเลย์ จ่ายจริงการันตี  มั่นคง ปลอดภัย 100%" />
+    <meta name="twitter:description" content="สมัคร หวยมาเลย์ รับสิทธิประโยชน์มากมาย จ่ายจริงการันตี 100% เปิดรับแทงหวยมาเลเซีย หวยมาเลย์ แทงหวยวันนี้ให้ราคาจ่ายสูงสุดถึงบาทละ 900 บาท เปิดรับแทงหวยตลอด 24 ชั่วโมง" />
+    <meta name="twitter:site" content="หวยมาเลย์">
+    <meta name="twitter:creator" content="หวยมาเลย์">
 
     <link rel="canonical" href="#/register/" />
     <link rel="alternate" href="#/register/" hreflang="th-TH" />
