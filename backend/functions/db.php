@@ -3,9 +3,9 @@ class connectDB
 {
     public $conn;
     private $hostName = "localhost";
-    private $userName = "uwdijqhctvmlz";
-    private $password = "xn--12c9dast7db4m.live";
-    private $dbName = "dbbkziamrs6fd1";
+    private $userName = "ucqb8ncnazxxo";
+    private $password = "xn--y3cbblhx6cwgwe.cam";
+    private $dbName = "dbbsuyhulcae2x";
 
     function __construct()
     {

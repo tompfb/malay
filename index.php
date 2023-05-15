@@ -37,11 +37,11 @@ if ($key_search) {
     <meta property="og:type" content="website" />
     <meta property="og:title" content="หวยมาเลย์ แทงขั้นต่ำ 1 บาท จ่ายถึงบาทละ 900 บาท ตลอด 24 ชม." />
     <meta property="og:description" content="หวยมาเลย์ จัดอยู่ในหมวดหมู่หวยต่างประเทศ ออกรางวัลโดยประเทศมาเลเซีย แทงหวยไม่มีขั้นต่ำเริ่มต้น 1 บาท จ่ายผลตอบแทนสูงถึงบาทละ 900 บาท" />
-    <meta property="og:url" content="#/" />
+    <meta property="og:url" content="https://www.xn--y3cbblhx6cwgwe.cam/" />
     <meta property="og:site_name" content="หวยมาเลย์ " />
     <meta property="og:image" content="./img/logo-lotto-malay.webp" />
 
-    <meta property="twitter:url" content="#/">
+    <meta property="twitter:url" content="https://www.xn--y3cbblhx6cwgwe.cam/">
     <meta property="twitter:image" content="./img/logo-lotto-malay.webp">
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="หวยมาเลย์ แทงขั้นต่ำ 1 บาท จ่ายถึงบาทละ 900 บาท ตลอด 24 ชม." />
@@ -49,8 +49,8 @@ if ($key_search) {
     <meta name="twitter:site" content="หวยมาเลย์ ">
     <meta name="twitter:creator" content="หวยมาเลย์ ">
 
-    <link rel="canonical" href="#/" />
-    <link rel="alternate" href="#/" hreflang="th-TH" />
+    <link rel="canonical" href="https://www.xn--y3cbblhx6cwgwe.cam/" />
+    <link rel="alternate" href="https://www.xn--y3cbblhx6cwgwe.cam/" hreflang="th-TH" />
 
     <link rel="shortcut icon" href="./favicon.webp" type="image/x-icon" />
     <link rel="icon" href="./favicon.webp" type="image/x-icon" />
@@ -61,8 +61,8 @@ if ($key_search) {
         {
             "@context": "https://schema.org",
             "@type": "Organization",
-            "url": "#/",
-            "logo": "#/img/logo-lotto-malay.webp"
+            "url": "https://www.xn--y3cbblhx6cwgwe.cam/",
+            "logo": "https://www.xn--y3cbblhx6cwgwe.cam/img/logo-lotto-malay.webp"
         }
     </script>
     <script type="application/ld+json">
@@ -77,21 +77,21 @@ if ($key_search) {
                     "/html/head/meta[@name='description']/@content"
                 ]
             },
-            "url": "#/"
+            "url": "https://www.xn--y3cbblhx6cwgwe.cam/"
         }
     </script>
     <script type="application/ld+json">
         {
             "@context": "https://schema.org/",
             "@type": "WebSite",
-            "url": "#/",
+            "url": "https://www.xn--y3cbblhx6cwgwe.cam/",
             "name": "หวยมาเลย์ ",
             "description": "หวยมาเลย์ แทงขั้นต่ำ 1 บาท จ่ายถึงบาทละ 900 บาท",
             "potentialAction": [{
                 "@type": "SearchAction",
                 "target": {
                     "@type": "EntryPoint",
-                    "urlTemplate": "#/?s={search_term_string}"
+                    "urlTemplate": "https://www.xn--y3cbblhx6cwgwe.cam/?s={search_term_string}"
                 },
                 "query-input": "required name=search_term_string"
             }]
@@ -113,16 +113,16 @@ if ($key_search) {
             "@context": "https://schema.org",
             "@type": "Store",
             "image": [
-                "#/img/logo-lotto-malay.webp",
-                "#/img/main-banner.webp",
-                "#/img/huay-malay.webp"
+                "https://www.xn--y3cbblhx6cwgwe.cam/img/logo-lotto-malay.webp",
+                "https://www.xn--y3cbblhx6cwgwe.cam/img/main-banner.webp",
+                "https://www.xn--y3cbblhx6cwgwe.cam/img/huay-malay.webp"
             ],
             "name": "หวยมาเลย์ ",
             "address": {
                 "@type": "PostalAddress",
                 "addressCountry": "TH"
             },
-            "url": "#/",
+            "url": "https://www.xn--y3cbblhx6cwgwe.cam/",
             "priceRange": "฿฿฿",
             "telephone": "+6696-921-9245",
             "openingHoursSpecification": [{

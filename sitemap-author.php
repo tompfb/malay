@@ -16,7 +16,7 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
         $encode_tag = urlencode($author);
         echo "
     <url>
-    <loc>#/author/$encode_tag</loc>
+    <loc>https://www.xn--y3cbblhx6cwgwe.cam/author/$encode_tag</loc>
     <lastmod>2022-05-26T02:46:27+00:00</lastmod>
     <priority>0.75</priority>
     </url>";

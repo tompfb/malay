@@ -26,12 +26,12 @@ if (isset($Fname)) {
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="robots" content="index,follow" />
-    <link rel="canonical" href="#/author/<?php echo $a_name ?>" />
-    <link rel="alternate" href="#/author/<?php echo $a_name ?>" hreflang="th-TH" />
+    <link rel="canonical" href="https://www.xn--y3cbblhx6cwgwe.cam/author/<?php echo $a_name ?>" />
+    <link rel="alternate" href="https://www.xn--y3cbblhx6cwgwe.cam/author/<?php echo $a_name ?>" hreflang="th-TH" />
     <meta property="og:locale" content="th_TH" />
     <meta property="og:type" content="author" />
     <meta property="og:title" content="<?php echo $a_name ?>, Author at หวยมาเลย์" />
-    <meta property="og:url" content="#/author/<?php echo $a_name ?>" />
+    <meta property="og:url" content="https://www.xn--y3cbblhx6cwgwe.cam/author/<?php echo $a_name ?>" />
     <meta property="og:site_name" content="หวยมาเลย์" />
     <meta property="og:image" content="../img/logo-lotto-malay.webp" />
     <meta name="twitter:card" content="summary_large_image" />
@@ -49,12 +49,12 @@ if (isset($Fname)) {
                     "@type": "ListItem",
                     "position": 1,
                     "name": "หน้าแรก",
-                    "item": "#/"
+                    "item": "https://www.xn--y3cbblhx6cwgwe.cam/"
                 }, {
                     "@type": "ListItem",
                     "position": 2,
                     "name": "บทความทั้งหมด",
-                    "item": "#/all-articles/"
+                    "item": "https://www.xn--y3cbblhx6cwgwe.cam/all-articles/"
                 },
                 {
                     "@type": "ListItem",

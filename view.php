@@ -70,10 +70,10 @@ if (isset($url_articles_seo)) {
     <meta property="og:title" content="<?php echo $topic_name  ?>" />
     <meta property="og:description" content="<?php echo $descripion_seo  ?>" />
     <meta property="og:image" content="../backend/uploads/article-img/<?php echo $image_banner ?>" />
-    <meta property="og:url" content="#/view/<?php echo $encode ?>" />
+    <meta property="og:url" content="https://www.xn--y3cbblhx6cwgwe.cam/view/<?php echo $encode ?>" />
     <meta property="og:site_name" content="หวยมาเลย์" />
 
-    <meta property="twitter:url" content="#/view/<?php echo $encode ?>">
+    <meta property="twitter:url" content="https://www.xn--y3cbblhx6cwgwe.cam/view/<?php echo $encode ?>">
     <meta property="twitter:image" content="../backend/uploads/article-img/<?php echo $image_banner ?>">
     <meta name="twitter:title" content="<?php echo $topic_name ?>" />
     <meta name="twitter:description" content="<?php echo $descripion_seo ?>" />
@@ -81,8 +81,8 @@ if (isset($url_articles_seo)) {
     <meta name="twitter:creator" content="หวยมาเลย์" />
     <meta name="twitter:card" content="summary_large_image" />
 
-    <link rel="alternate" href="#/<?php echo $encode ?>" hreflang="th-TH" />
-    <link rel="canonical" href="#/<?php echo $encode ?>" />
+    <link rel="alternate" href="https://www.xn--y3cbblhx6cwgwe.cam/<?php echo $encode ?>" hreflang="th-TH" />
+    <link rel="canonical" href="https://www.xn--y3cbblhx6cwgwe.cam/<?php echo $encode ?>" />
 
     <link rel="shortcut icon" href="../favicon.webp" type="image/x-icon" />
     <link rel="icon" href="../favicon.webp" type="image/x-icon" />
@@ -95,25 +95,25 @@ if (isset($url_articles_seo)) {
             "@type": "NewsArticle",
             "mainEntityOfPage": {
                 "@type": "WebPage",
-                "@id": "#/view/<?php echo $encode ?>"
+                "@id": "https://www.xn--y3cbblhx6cwgwe.cam/view/<?php echo $encode ?>"
             },
             "headline": "<?php echo $topic_name  ?>",
             "image": [
-                "#/backend/uploads/article-img/<?php echo $image_banner  ?>"
+                "https://www.xn--y3cbblhx6cwgwe.cam/backend/uploads/article-img/<?php echo $image_banner  ?>"
             ],
             "datePublished": "<?php echo $create_at ?>",
             "dateModified": "<?php echo $update_at ?>",
             "author": {
                 "@type": "Person",
                 "name": "หวยมาเลย์",
-                "url": "#/view/<?php echo $encode ?>"
+                "url": "https://www.xn--y3cbblhx6cwgwe.cam/view/<?php echo $encode ?>"
             },
             "publisher": {
                 "@type": "Organization",
                 "name": "หวยมาเลย์",
                 "logo": {
                     "@type": "ImageObject",
-                    "url": "#/view/<?php echo $encode ?>"
+                    "url": "https://www.xn--y3cbblhx6cwgwe.cam/view/<?php echo $encode ?>"
                 }
             }
         }
@@ -126,12 +126,12 @@ if (isset($url_articles_seo)) {
                     "@type": "ListItem",
                     "position": 1,
                     "name": "หน้าแรก",
-                    "item": "#/"
+                    "item": "https://www.xn--y3cbblhx6cwgwe.cam/"
                 }, {
                     "@type": "ListItem",
                     "position": 2,
                     "name": "บทความทั้งหมด",
-                    "item": "#/all-articles/"
+                    "item": "https://www.xn--y3cbblhx6cwgwe.cam/all-articles/"
                 },
                 {
                     "@type": "ListItem",
@@ -190,9 +190,9 @@ if (isset($url_articles_seo)) {
                 <aside class="site mb-2">
                     <div class="effect egeon">
                         <div class="buttons">
-                            <a href="https://www.facebook.com/sharer/sharer.php?u=#/<?php echo $url_articles_seo ?>" class="fb" title="Join us on Facebook" onclick="window.open(this.href, 'facebook-share','width=500,height=300');return false;"><i class="fab fa-facebook" aria-hidden="true"></i></a>
-                            <a href="https://twitter.com/share?text=title &url=#/<?php echo $url_articles_seo ?>" class="tw" title="Join us on Twitter" target="_blank" onclick="window.open(this.href, 'twitter-share', 'width=500,height=300');return false;"><i class="fab fa-twitter" aria-hidden="true"></i></a>
-                            <a href="https://social-plugins.line.me/lineit/share?url=#/<?php echo $url_articles_seo ?>" class="i-line" title="Join us on line" onclick="window.open(this.href, 'facebook-share','width=500,height=500');return false;"><i class="fab fa-line" aria-hidden="true"></i></a>
+                            <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.xn--y3cbblhx6cwgwe.cam/<?php echo $url_articles_seo ?>" class="fb" title="Join us on Facebook" onclick="window.open(this.href, 'facebook-share','width=500,height=300');return false;"><i class="fab fa-facebook" aria-hidden="true"></i></a>
+                            <a href="https://twitter.com/share?text=title &url=https://www.xn--y3cbblhx6cwgwe.cam/<?php echo $url_articles_seo ?>" class="tw" title="Join us on Twitter" target="_blank" onclick="window.open(this.href, 'twitter-share', 'width=500,height=300');return false;"><i class="fab fa-twitter" aria-hidden="true"></i></a>
+                            <a href="https://social-plugins.line.me/lineit/share?url=https://www.xn--y3cbblhx6cwgwe.cam/<?php echo $url_articles_seo ?>" class="i-line" title="Join us on line" onclick="window.open(this.href, 'facebook-share','width=500,height=500');return false;"><i class="fab fa-line" aria-hidden="true"></i></a>
                         </div>
                     </div>
                     <div class="potsnew">

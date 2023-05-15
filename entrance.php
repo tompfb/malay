@@ -28,11 +28,11 @@ include 'script-login.php';
     <meta property="og:type" content="article" />
     <meta property="og:title" content="ทางเข้า หวยมาเลย์ บริการตลอด 24 ชั่วโมง ฝากถอนปลอดภัย 100%" />
     <meta property="og:description" content="ทางเข้าเล่นหวยมาเลย์ แทงหวยมาเลย์ เหมาะสำหรับใครที่ชื่นชอบในการแทงหวยออนไลน์ เล่นได้ทั้งระบบ Android และ iOS ฝากถอนปลอดภัย 100% " />
-    <meta property="og:url" content="#/entrance/" />
+    <meta property="og:url" content="https://www.xn--y3cbblhx6cwgwe.cam/entrance/" />
     <meta property="og:site_name" content="ทางเข้า หวยมาเลย์" />
     <meta property="og:image" content="../img/entrance/banner-entrance-lottomalay.webp" />
 
-    <meta property="twitter:url" content="#/entrance/">
+    <meta property="twitter:url" content="https://www.xn--y3cbblhx6cwgwe.cam/entrance/">
     <meta property="twitter:image" content="../img/entrance/banner-entrance-lottomalay.webp">
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="ทางเข้า หวยมาเลย์ บริการตลอด 24 ชั่วโมง ฝากถอนปลอดภัย 100%" />
@@ -40,8 +40,8 @@ include 'script-login.php';
     <meta name="twitter:site" content="หวยมาเลย์">
     <meta name="twitter:creator" content="หวยมาเลย์">
 
-    <link rel="canonical" href="#/entrance/" />
-    <link rel="alternate" href="#/entrance/" hreflang="th-TH" />
+    <link rel="canonical" href="https://www.xn--y3cbblhx6cwgwe.cam/entrance/" />
+    <link rel="alternate" href="https://www.xn--y3cbblhx6cwgwe.cam/entrance/" hreflang="th-TH" />
 
     <link rel="shortcut icon" href="../favicon.webp" type="image/x-icon" />
     <link rel="icon" href="../favicon.webp" type="image/x-icon" />
@@ -56,7 +56,7 @@ include 'script-login.php';
                 "@type": "ListItem",
                 "position": 1,
                 "name": "หน้าแรก",
-                "item": "#/"
+                "item": "https://www.xn--y3cbblhx6cwgwe.cam/"
             }, {
                 "@type": "ListItem",
                 "position": 2,

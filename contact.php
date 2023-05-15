@@ -28,11 +28,11 @@ include 'script-login.php';
     <meta property="og:type" content="article" />
     <meta property="og:title" content="ติดต่อเรา หวยมาเลย์ ยินดีพร้อมให้บริการลูกค้าทุกท่านตลอด 24 ชั่วโมง" />
     <meta property="og:description" content="ติดต่อเรา หวยมาเลย์ อัพเดทช่องทางการติดต่อ LINE Official มีทีมงานมืออาชีพคอยให้บริการลูกค้าตลอดเวลา ยินดีให้คำปรึกษา และให้คำแนะนำสิ่งต่างๆที่ลูกค้าต้องการ ตลอด 24 ชั่วโมง" />
-    <meta property="og:url" content="#/contact/" />
+    <meta property="og:url" content="https://www.xn--y3cbblhx6cwgwe.cam/contact/" />
     <meta property="og:site_name" content="ติดต่อ หวยมาเลย์" />
     <meta property="og:image" content="../img/contact/banner-contact-lottomalay.webp" />
 
-    <meta property="twitter:url" content="#/contact/">
+    <meta property="twitter:url" content="https://www.xn--y3cbblhx6cwgwe.cam/contact/">
     <meta property="twitter:image" content="../img/contact/banner-contact-lottomalay.webp">
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="ติดต่อเรา หวยมาเลย์ ยินดีพร้อมให้บริการลูกค้าทุกท่านตลอด 24 ชั่วโมง" />
@@ -40,8 +40,8 @@ include 'script-login.php';
     <meta name="twitter:site" content="หวยมาเลย์">
     <meta name="twitter:creator" content="หวยมาเลย์">
 
-    <link rel="canonical" href="#/contact/" />
-    <link rel="alternate" href="#/contact/" hreflang="th-TH" />
+    <link rel="canonical" href="https://www.xn--y3cbblhx6cwgwe.cam/contact/" />
+    <link rel="alternate" href="https://www.xn--y3cbblhx6cwgwe.cam/contact/" hreflang="th-TH" />
 
     <link rel="shortcut icon" href="../favicon.webp" type="image/x-icon" />
     <link rel="icon" href="../favicon.webp" type="image/x-icon" />
@@ -86,7 +86,7 @@ include 'script-login.php';
                 "@type": "ListItem",
                 "position": 1,
                 "name": "หน้าแรก",
-                "item": "#/"
+                "item": "https://www.xn--y3cbblhx6cwgwe.cam/"
             }, {
                 "@type": "ListItem",
                 "position": 2,

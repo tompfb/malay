@@ -17,7 +17,7 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
         $encode_tag = urlencode($name);
         echo "
    <url>
-   <loc>#/tag/$encode_tag</loc>
+   <loc>https://www.xn--y3cbblhx6cwgwe.cam/tag/$encode_tag</loc>
    <lastmod>" . $date  . "</lastmod>
    <priority>0.75</priority>
    </url>";
