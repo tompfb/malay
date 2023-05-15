@@ -5,7 +5,7 @@ include 'script-login.php';
 <html lang="th">
 
 <head>
-    <title>สมัคร หวยมาเลย์ จ่ายจริงการันตี  มั่นคง ปลอดภัย 100% </title>
+    <title>สมัคร หวยมาเลย์ จ่ายจริงการันตี มั่นคง ปลอดภัย 100% </title>
     <meta name="title" content="สมัคร หวยมาเลย์ จ่ายจริงการันตี  มั่นคง ปลอดภัย 100%" />
     <meta name="description" content="สมัคร หวยมาเลย์ รับสิทธิประโยชน์มากมาย จ่ายจริงการันตี 100% เปิดรับแทงหวยมาเลเซีย หวยมาเลย์ แทงหวยวันนี้ให้ราคาจ่ายสูงสุดถึงบาทละ 900 บาท เปิดรับแทงหวยตลอด 24 ชั่วโมง" />
 
@@ -47,7 +47,18 @@ include 'script-login.php';
     <link rel="icon" href="../favicon.webp" type="image/x-icon" />
     <link rel="apple-touch-icon" href="../favicon.webp" />
     <?php include('./link.php'); ?>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-LRDNN2KC8S"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
 
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-LRDNN2KC8S');
+    </script>
     <script type="application/ld+json">
         {
             "@context": "https://schema.org",

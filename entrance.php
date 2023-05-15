@@ -14,7 +14,7 @@ include 'script-login.php';
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta http-equiv="content-language" content="th" />
     <meta http-equiv="content-type" content="text/html;" charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <meta name="robots" content="all" />
     <meta name="Author" content="หวยมาเลย์">
@@ -47,7 +47,18 @@ include 'script-login.php';
     <link rel="icon" href="../favicon.webp" type="image/x-icon" />
     <link rel="apple-touch-icon" href="../favicon.webp" />
     <?php include('./link.php'); ?>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-LRDNN2KC8S"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
 
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-LRDNN2KC8S');
+    </script>
     <script type="application/ld+json">
         {
             "@context": "https://schema.org",

@@ -141,7 +141,18 @@ if (isset($url_articles_seo)) {
             ]
         }
     </script>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-LRDNN2KC8S"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
 
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-LRDNN2KC8S');
+    </script>
     <?php include('./link.php'); ?>
     <style>
         ol,

@@ -14,7 +14,7 @@ if (isset($Fname)) {
 }
 
 
- 
+
 ?>
 <!DOCTYPE html>
 <html>
@@ -40,6 +40,18 @@ if (isset($Fname)) {
     <link rel="icon" href="../favicon.webp" type="image/x-icon" />
     <link rel="apple-touch-icon" href="../favicon.webp" />
     <?php include('./link.php'); ?>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-LRDNN2KC8S"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-LRDNN2KC8S');
+    </script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
     <script type="application/ld+json">
         {

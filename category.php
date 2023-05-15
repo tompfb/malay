@@ -16,33 +16,46 @@ $category_name = $_GET["name"];
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="canonical" href="https://www.xn--y3cbblhx6cwgwe.cam/category/<?php echo $category_name; ?>" />
     <link rel="alternate" href="https://www.xn--y3cbblhx6cwgwe.cam/category/<?php echo $category_name; ?>" hreflang="th-TH" />
- 
+
     <link rel="shortcut icon" href="../favicon.webp" type="image/x-icon" />
     <link rel="icon" href="../favicon.webp" type="image/x-icon" />
     <link rel="apple-touch-icon" href="../favicon.webp" />
 
     <?php include('./link.php'); ?>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-LRDNN2KC8S"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-LRDNN2KC8S');
+    </script>
     <script type="application/ld+json">
         {
             "@context": "https://schema.org",
             "@type": "BreadcrumbList",
             "itemListElement": [{
-                "@type": "ListItem",
-                "position": 1,
-                "name": "หน้าแรก",
-                "item": "https://www.xn--y3cbblhx6cwgwe.cam/"
-            }, {
-                "@type": "ListItem",
-                "position": 2,
-                "name": "บทความทั้งหมด",
-                "item": "https://www.xn--y3cbblhx6cwgwe.cam/all-articles/"
-            },
-            {
-                "@type": "ListItem",
-                "position": 3,
-                "name": "หมวดหมู่ <?php echo $category_name;  ?>"
-            }]
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "หน้าแรก",
+                    "item": "https://www.xn--y3cbblhx6cwgwe.cam/"
+                }, {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "บทความทั้งหมด",
+                    "item": "https://www.xn--y3cbblhx6cwgwe.cam/all-articles/"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "หมวดหมู่ <?php echo $category_name;  ?>"
+                }
+            ]
         }
     </script>
 
@@ -63,11 +76,11 @@ $category_name = $_GET["name"];
     </section>
     <article class="viewcontainer">
         <div class="container boxcontainer" style="min-height: 60vh;">
-        <div class="heading-bg-secon">
-            <h1 class="bg-heading">
-                หมวดหมู่ : <?php echo $category_name; ?>
-            </h1>
-        </div>
+            <div class="heading-bg-secon">
+                <h1 class="bg-heading">
+                    หมวดหมู่ : <?php echo $category_name; ?>
+                </h1>
+            </div>
             <div id="loadtable">
                 <?php
                 $lastid = '';
@@ -101,23 +114,23 @@ $category_name = $_GET["name"];
                                         <p class="news-articles-p "><?php echo trim(strip_tags(mb_substr($row['descripion_seo'], 0, 120, 'utf-8'))); ?></p>
 
                                     </div>
-                       
+
                                 </a>
                                 <div class="usertag">
-                                        <div class="tag__info">
-                                            <?php
-                                            $sql_tag = "SELECT tag.tag_url as tag_url,tag.name as name FROM (tag
+                                    <div class="tag__info">
+                                        <?php
+                                        $sql_tag = "SELECT tag.tag_url as tag_url,tag.name as name FROM (tag
                                     left join tag_log on tag.id = tag_log.tag_id)
                                     where articles_id = $article_id ";
-                                            $query_tag = mysqli_query($conn, $sql_tag) or die("Error in query: $sql " . mysqli_error($conn));
-                                            while ($result_tag = $query_tag->fetch_assoc()) {
-                                            ?>
-                                                <a href="../tag/<?php echo $result_tag['tag_url']; ?>" style="text-decoration: none;">
-                                                    <span class="tag tag-red"><?php echo $result_tag['name'] ?></span>
-                                                </a>
-                                            <?php } ?>
-                                        </div>
+                                        $query_tag = mysqli_query($conn, $sql_tag) or die("Error in query: $sql " . mysqli_error($conn));
+                                        while ($result_tag = $query_tag->fetch_assoc()) {
+                                        ?>
+                                            <a href="../tag/<?php echo $result_tag['tag_url']; ?>" style="text-decoration: none;">
+                                                <span class="tag tag-red"><?php echo $result_tag['name'] ?></span>
+                                            </a>
+                                        <?php } ?>
                                     </div>
+                                </div>
                             </div>
                         </div>
 
